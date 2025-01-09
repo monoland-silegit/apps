@@ -1,0 +1,1 @@
+import{_ as o,b as t,d as n,o as a}from"./App-DwJLD6gY.js";const r={name:"payroll-fitting"};function c(p,s,_,i,f,d){const e=n("page-crud");return a(),t(e,{"page-name":"payroll-fitting","page-key":"fitting"})}const g=o(r,[["render",c]]);export{g as default};

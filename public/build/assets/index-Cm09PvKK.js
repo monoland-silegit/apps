@@ -1,1 +1,0 @@
-import{_ as o,b as s,d as n,o as a}from"./App-DZDq3XUU.js";const r={name:"payroll-submission"};function c(p,t,_,i,m,u){const e=n("page-crud");return a(),s(e,{"page-name":"payroll-submission","page-key":"submission"})}const l=o(r,[["render",c]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as t,d as s,o as e}from"./App-DwJLD6gY.js";const p={name:"payroll-biodata-data"};function d(f,o,l,i,m,_){const a=s("form-data");return e(),r(a,null,{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const x=n(p,[["render",d]]);export{x as default};
