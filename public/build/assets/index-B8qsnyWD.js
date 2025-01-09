@@ -1,0 +1,1 @@
+import{_ as e,b as o,d as t,o as n}from"./App-DZDq3XUU.js";const r={name:"payroll-biodata"};function c(p,s,_,d,i,l){const a=t("page-crud");return n(),o(a,{"page-name":"payroll-biodata","page-key":"biodata"})}const f=e(r,[["render",c]]);export{f as default};

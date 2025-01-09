@@ -1,0 +1,1 @@
+import{_ as r,b as t,w as a,d as n,o as p}from"./App-DZDq3XUU.js";const s={name:"payroll-report"};function c(l,e,_,d,f,m){const o=n("page-blank");return p(),t(o,{"page-name":"payroll-report","page-key":"report"},{default:a(({record:i})=>e[0]||(e[0]=[])),_:1})}const u=r(s,[["render",c]]);export{u as default};
